@@ -1,2 +1,2 @@
 # angular sandbox
-Sandbox for frontend with angular cli
+frontend with angular cli
